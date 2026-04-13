@@ -130,7 +130,7 @@ OVERALL MEAN          0.xx             0.xx
 |------|--------|---------------|
 | **Muhammad Haroon** | [@haroon-ai1](https://github.com/haroon-ai1) | Preprocessing, Feature Fusion, Documentation |
 | **Muneeb Ahmad** | [@MuneebAhmadOfficial](https://github.com/MuneebAhmadOfficial) | Color Histograms, Edge Extraction, Fusion Fixes |
-| **[Third Member Name]** | [@Mibiol](https://github.com/Mibiol) | Query/Retrieval Logic, Visualizations, Precision Evaluation |
+| **Mubashir Ahmad** | [@Mibiol](https://github.com/Mibiol) | Query/Retrieval Logic, Visualizations, Precision Evaluation |
 
 ---
 
